@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi I'm Anand Sahani:
 B.Tech Computer Science student at Barak Valley Engineering College with a focus on AI/ML and Software Development. Experienced in building e-waste detection models using machine learning techniques and image processing from an internship at IIT Guwahati. Proficient in C++, Python, Java, and Data Structures, with a passion for leveraging technology to solve real-world problems.
 
 
